@@ -1,4 +1,4 @@
-# message-esp32
+# Mensaje en Matriz 8x8 con el Esp32
 
 Proyecto IoT con el NodeMcu Esp32 y una Matriz 8x8 Led para enviar un mensaje a través de Telegram y mostrarlo en la matriz.
 
