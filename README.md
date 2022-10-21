@@ -7,3 +7,10 @@ Proyecto IoT con el NodeMcu Esp32 y una Matriz 8x8 Led para enviar un mensaje a 
 Youtube Video
 
 https://www.youtube.com/watch?v=PKQT5c92aDU&t=3s
+
+## Componentes
+
+- NodeMCU Esp32
+- Matriz Led 8x8
+- Cables
+- Fuente 5v
