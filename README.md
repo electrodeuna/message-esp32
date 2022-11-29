@@ -14,3 +14,9 @@ https://www.youtube.com/watch?v=PKQT5c92aDU&t=3s
 - Matriz Led 8x8
 - Cables
 - Fuente 5v
+
+## Librerías
+
+Las librerías utilizadas para este proyecto son "ArduinoJson" y "UniversalTelegramBot", se instalan desde el gestor de librería del Arduino IDE. También se pueden descargar directamente e instalarlas en Arduino IDE desde Programa -> Incluir Librería -> Añadir biblioteca .ZIP
+
+UniversalTelegramBot: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
